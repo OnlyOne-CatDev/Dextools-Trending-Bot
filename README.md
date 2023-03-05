@@ -62,5 +62,8 @@ Dextools Trending Bot Video : Soon
 When you buy the bot, Make sure to ask for Live Demo.
 
 # Contact
+
 For any kind of further assistant kindly DM me on Telegram.
 TG : [@OnlyOne-CatDev](https://t.me/OnlyOne_CatDev)
+
+Join here to get Latest Updates : [Official Channel](https://t.me/OnlyOne_CatDev_Channel)
