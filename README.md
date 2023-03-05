@@ -24,7 +24,6 @@ If you are interested on this bot message me on Telegram [@OnlyOne-CatDev](https
 
 ## Features
 - Search for your token ✓
-
 - Click favourite button ✓
 - Click bsc scan button ✓
 - Click Website button ✓
