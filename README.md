@@ -55,7 +55,7 @@ Else I wll guide the full installation and help you to install the program prope
 ## Youtube
 Find me on Youtube : https://www.youtube.com/channel/UCiDQO05mD16CQ8yDiWAsHCw
 
-Dextools Trending Bot Video : Soon
+Dextools Trending Bot Video : https://youtu.be/uKoJCMZCxOY
 
 ## Alert
 When you buy the bot, Make sure to ask for Live Demo.
